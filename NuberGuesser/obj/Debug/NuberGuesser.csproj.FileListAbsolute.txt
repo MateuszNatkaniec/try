@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\NuberGuesser\NuberGuesser\bin\Debug\NuberGuesser.exe.config
+C:\Users\HP\Desktop\NuberGuesser\NuberGuesser\bin\Debug\NuberGuesser.exe
+C:\Users\HP\Desktop\NuberGuesser\NuberGuesser\bin\Debug\NuberGuesser.pdb
+C:\Users\HP\Desktop\NuberGuesser\NuberGuesser\obj\Debug\NuberGuesser.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\NuberGuesser\NuberGuesser\obj\Debug\NuberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NuberGuesser\NuberGuesser\obj\Debug\NuberGuesser.exe
+C:\Users\HP\Desktop\NuberGuesser\NuberGuesser\obj\Debug\NuberGuesser.pdb
